@@ -36,11 +36,12 @@ Change Management Process – Structured approach to handling scope changes
 # Simulated Challenges & Mitigations
 To mirror real-world constraints, the project incorporated several fictional but realistic obstacles:
 
-Challenge	Impact	Mitigation Strategy
-Rising material costs	Budget overrun	Sourced alternative sustainable materials; negotiated supplier agreements
-Manufacturing delays	Timeline slippage	Adjusted schedule; added buffer time; parallel-tracked QA
-Stakeholder scope changes	Scope creep	Enforced change control process; revisited project charter alignment
-Sustainability compliance hurdles	Regulatory risk	Engaged environmental consultants early; performed lifecycle assessment
+| Challenge | Impact | Mitigation Strategy |
+|---|---|---|
+| Rising material costs | Budget overrun | Sourced alternative sustainable materials; negotiated supplier agreements |
+| Manufacturing delays | Timeline slippage | Adjusted schedule; added buffer time; parallel-tracked QA |
+| Stakeholder scope changes | Scope creep | Enforced change control process; revisited project charter alignment |
+| Sustainability compliance hurdles | Regulatory risk | Engaged environmental consultants early; performed lifecycle assessment |
 # Tools & Practices Applied
 Project Structuring: Scope definition, phase-gate approvals
 
