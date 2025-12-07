@@ -67,4 +67,5 @@ Sharpened skills in planning, risk management, and stakeholder communication
 # Reflection
 This project was more than an exercise—it was proof that with clear structure, disciplined planning, and systematic execution, even a conceptual idea can be transformed into a fully built project plan. It reinforced my ability to lead projects that balance practical constraints with meaningful impact, and deepened my passion for managing initiatives that align with sustainability and social value.
 
-Note: This project was created for educational and portfolio demonstration purposes. All company names, team members, and proprietary data are fictional. The methodologies, documentation, and management practices reflect real-world project management standards.
+# Note: 
+This project was created for educational and portfolio demonstration purposes. All company names, team members, and proprietary data are fictional. The methodologies, documentation, and management practices reflect real-world project management standards.
